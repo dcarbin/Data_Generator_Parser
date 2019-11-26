@@ -1,0 +1,34 @@
+{
+  "Companies": [
+    {
+      "name": "Cognizant Technology Solutions",
+      "numberOfEmployees": 289339,
+      "CEO": "Brian Humphries",
+      "fortune_500Num": 194
+    },
+    {
+      "name": "Crazy Intel Tech",
+      "numberOfEmployees": 132992,
+      "CEO": "Sergio Williams",
+      "fortune_500Num": 367
+    },
+    {
+      "name": "Dodge Tech Busters",
+      "numberOfEmployees": 390944,
+      "CEO": "Rick McFlames Jr.",
+      "fortune_500Num": 500
+    },
+    {
+      "name": "Koolaid Kustomz",
+      "numberOfEmployees": 400,
+      "CEO": "Daquan Jeffery McHumphrey",
+      "fortune_500Num": 400
+    },
+    {
+      "name": "LOL Technologies",
+      "numberOfEmployees": 4398,
+      "CEO": "Brian Humphries",
+      "fortune_500Num": 321
+    }
+  ]
+}
